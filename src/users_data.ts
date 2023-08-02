@@ -11,7 +11,7 @@ let miroslavObj = {
   Name: "Miroslav",
   "Favorite Food": "Sushi",
   "Favorite Movie": "American Psycho",
-  Status: "Inactive",
+  Status: "Active",
 };
 let donnyObj = {
   Name: "Donny",
@@ -23,13 +23,13 @@ let mattObj = {
   Name: "Matt",
   "Favorite Food": "Brisket Tacos",
   "Favorite Movie": "The Princess Bride",
-  Status: "Inactive",
+  Status: "Active",
 };
 
 let samObj = {
   Name: "Sam",
   "Favorite Food": "Meat Balls",
   "Favorite Movie": "Back to The Future",
-  Status: "Inactive",
+  Status: "Active",
 };
 export const users: User[] = [rockyObj, miroslavObj, donnyObj, mattObj, samObj];
